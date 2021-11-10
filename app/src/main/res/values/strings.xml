@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Dagupan Festival </string>
+    <string name="history">
+        <br>
+            History of Dagupan</br>
+        </string>
+    <string name="description">
+        <br>
+            If you’d ask where the Bangus Festival place is, many Filipinos would already know the answer as
+            there is only one place in the country that is known to have the tastiest bangus: Dagupan. You can
+            trace the Bangus Festival history back to 2002 when it all started. It was then-Mayor Benjamin Lim who
+            initiated this kind of festival to promote Dagupan’s most precious gem, bangus or milkfish. And one year
+            later, they were recognized Kalutan ed Dagupan by the Guinness Book of World Records as the Longest
+            Barbecue of the World.
+
+
+            Since then, Dagupan has been celebrating this festivity yearly in the month of April. In fact, because
+            it is a big event, many media entities not just from the Philippines but across the world
+            are covering this annual event in Dagupan.</br>
+        </string>
+    <string name="bangusine"><br>101 Ways to Cook Bangus</br>
+    </string>
+    <string name="eventdescription1">
+        <br> It is a cooking contest where seasoned cooks or chefs showcase their talent
+            preparing the bangus in the most unique and delicious way.In this event, the
+            contestants who participate in this event will compete in cooking skills using
+            the main ingredients. The bangus will be presented. The winner will take home a
+            large prize.</br>
+    </string>
+
+    <string name="streetdance"><br>Gilon! Gilon! ed Dalan</br></string>
+    <string name="descrip2">
+        The Gilon-Gilon ed Dalan street dance competition is one of the main events of Dagupan\'s
+        annual Bangus Festival. 31 barangays demonstrate their artistic interpretation of harvesting
+        fish (gilon-gilon in the Pangasinan language) through dance and costume.
+        Like any other festivals, of course it’s not complete without street dancing. When the Bangus
+        Festival takes place, the participants wear colorful Bangus Festival costumes and dance to the beat
+        of the drums where some even carry bangus props.
+    </string>
+    <string name="rodeo">Bangus Rodeo </string>
+    <string name="descrip3">
+        <br>
+        The Bangus Rodeo is one of the traditional Bangus Festival events since
+        its launching 2002 by then mayor, the late Benjamin Lim. ... The owner of the prettiest bangus
+        will receive PHP7,000 and trophy. First and second runners-up will get PHP5,000 and trophy and
+        PHP3,000 plus trophy, respectively.This is the event where the bangus growers showcase their best
+        products and their food-processing skills.</br>
+    </string>
+    <string name="kalutan">Kalutan ed Dagupan</string>
+    <string name="descrip4"><br>
+        THE Kalutan ed Dalan Street Party of the Bangus Festival held on April 30 this city, is the biggest
+        street party.Some 14,000 pieces or 4,500 kilos of bangus were grilled in 900 grill pads that
+        were sold to various groups by the city government, packaged with charcoal, hotdogs, s
+        oda and tent.
+        This is one of the main highlights of the event. That is why when Bangus Festival 2020 didn’t happen
+        due to the pandemic, the yearly tradition was cut. Kalitan ed Dagupan is the event where everyone partakes
+        in grilling thousands of bangus on the street.
+    </br></string>
+    <string name="festivalofnorth">Festival of north</string>
+    <string name="descrip5"><br>
+        it is also one of the highly anticipated events in the festival where the critics
+        will mourn in various places carrying and representing their city and their proud
+        product within the region1. they will fight against it through a street dancing which
+        also includes dagupan. the winner will get a big prize</br></string>
+
+    <string name="historydescription">The Bangus Festival is one of the major and most exciting festivals in the Philippines worth
+        visiting and coming back for. Watch and enjoy the Gilon-Gilon ed Dalan, a street dancing competition; 101 Ways to Cook Bangus;
+        Bangus Rodeo; Bangus ed Karosa; and the Kalutan ed Dalan, which earned for Dagupan City the Guiness World Record as the
+        longest grill in 2003.Undeniably, the Bangus Festival has become the best advertisement for the world’s tastiest milkfish;
+        the Dagupan Bangus.The Agew na Dagupan is celebrated on the day when Dagupan was chartered as a city on June 20, 1947 when
+        President Manuel A. Roxas signed into law Republic Acr 170 authored by then Speaker Eugenio Perez. On October 13, 1947,
+        President Roxas issued Executive Order No. 96 implementing Republic Act 170 and fixing the territorial limits of the
+        city. The celebration of the Agew na Dagupan, or the founding day of Dagupan is observed as a holiday
+        with appropriate rites.Dagupan City starts the Dagupan City Fiesta in honor of the city’s patron St. John
+        the Evangelist on December 16, with the traditional misa de gallo. Christmas has become synonymous to the
+        Dagupan Fiesta wherein institutionalized activities mark nightly events at the City Plaza such as Nights
+        for Employees, Rotarians, Barangays, alumni of Dagupan City National High School, Teachers and
+        Professionals, Balikbayans, Miss Dagupan Coronation Night and the Rizal Day Celebration. Hundreds
+        of overseas Dagupenos also make an annual trip back home under the city’s Pawil Dagupan Project.
+        December 27 is the feast day of St. John the Evangelist.</string>
+
+
+    <string name="streetparty">Dagupan Street Party</string>
+    <string name="descrip6">
+        <br>
+            this is really the most anticipated by the people in the bangus festival where the heavy
+            personalities will perform on a single stage which is held on the road which is one of the
+            most events of the bangus festival and because of this many people come to the event this to
+            see a heavyweight personality in the industry
+        </br>
+    </string>
+
+
+</resources>

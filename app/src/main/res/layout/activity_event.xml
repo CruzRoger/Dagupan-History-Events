@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".event">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="37dp"
+            android:background="#00000000"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/cook"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="68dp"
+            android:layout_marginTop="7dp"
+            android:text="bagusine"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton1"
+            tools:ignore="MissingConstraints" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="37dp"
+            android:layout_marginEnd="25dp"
+            android:background="#00000000"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/gilon"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="64dp"
+            android:text="gilon gilon"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton2"
+            tools:ignore="MissingConstraints" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@+id/imageButton1"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="37dp"
+            android:background="#00000000"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton1"
+            app:srcCompat="@drawable/rodeo"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="56dp"
+            android:layout_marginTop="8dp"
+            android:text="Bangus rodeo"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton3"
+            tools:ignore="MissingConstraints" />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@+id/imageButton2"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="37dp"
+            android:layout_marginEnd="25dp"
+            android:background="#00000000"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton2"
+            app:srcCompat="@drawable/kalutan"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_marginEnd="44dp"
+            android:text="Kalutan ed dalan"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton4"
+            tools:ignore="MissingConstraints" />
+
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@+id/imageButton3"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="37dp"
+            android:background="#00000000"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton3"
+            app:srcCompat="@drawable/festivalofnorth"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="48dp"
+            android:layout_marginTop="14dp"
+            android:text="festival on north"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton5"
+            tools:ignore="MissingConstraints" />
+
+        <ImageButton
+            android:id="@+id/imageButton6"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@+id/imageButton4"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="37dp"
+            android:layout_marginEnd="25dp"
+            android:background="#00000000"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton4"
+            app:srcCompat="@drawable/streetparty"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="36dp"
+            android:text="bangus street party"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton6"
+            tools:ignore="MissingConstraints" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
